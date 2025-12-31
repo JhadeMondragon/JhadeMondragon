@@ -13,7 +13,7 @@
 
 I'm a software engineer passionate about building full-stack applications and diving deep into machine learning.
 
-- Currently building **[Petch](https://github.com/JhadeMondragon/Petch)** — a pet adoption platform with swipe-based matching
+- Currently building **[Petch](https://github.com/Jnunez411/petch)** — a pet adoption platform with swipe-based matching
 - Interested in **AI/ML**, **full-stack development**, and **systems programming**
 
 ---
@@ -32,6 +32,5 @@ I'm a software engineer passionate about building full-stack applications and di
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[Petch](https://github.com/JhadeMondragon/Petch)** | Full-stack pet adoption platform with swipe-based matching | Spring Boot, React, PostgreSQL |
+| **[Petch](https://github.com/Jnunez411/petch)** | Full-stack pet adoption platform with swipe-based matching | Spring Boot, React, PostgreSQL |
 | **[Loan Default Prediction](https://github.com/JhadeMondragon/Loan-Prediction-Model)** | Binary classification pipeline for predicting loan defaults | Python, scikit-learn, Pandas |
-
