@@ -11,7 +11,7 @@
 
 ### About Me
 
-I'm a software engineer passionate about building full-stack applications and diving deep into machine learning.
+I'm a software engineer that likes to build full-stack applications and learn about machine learning.
 
 - Currently building **[Petch](https://github.com/Jnunez411/petch)** — a pet adoption platform with swipe-based matching
 - Interested in **AI/ML**, **full-stack development**, and **systems programming**
