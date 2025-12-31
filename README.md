@@ -1,16 +1,37 @@
-## Hi there my name is Jhade Mondragon
+<div align="center">
   
-<!--
-**JhadeMondragon/JhadeMondragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Jhade Mondragon
 
-Here are some ideas to get you started:
+**Computer Science & Engineering Student**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</div>
+
+---
+
+### About Me
+
+I'm a software engineer passionate about building full-stack applications and diving deep into machine learning.
+
+- Currently building **[Petch](https://github.com/JhadeMondragon/Petch)** — a pet adoption platform with swipe-based matching
+- Interested in **AI/ML**, **full-stack development**, and **systems programming**
+
+---
+
+### Tech Stack
+
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,js,ts,spring,react,tensorflow,sklearn,tailwind,git,postgres,docker,kubernetes&perline=7)](https://skillicons.dev)
+
+</div>
+
+---
+
+### Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[Petch](https://github.com/JhadeMondragon/Petch)** | Full-stack pet adoption platform with swipe-based matching | Spring Boot, React, PostgreSQL |
+| **[Loan Default Prediction](https://github.com/JhadeMondragon/Loan-Prediction-Model)** | Binary classification pipeline for predicting loan defaults | Python, scikit-learn, Pandas |
+
